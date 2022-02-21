@@ -1,0 +1,12 @@
+C:\Users\dada_\source\repos\Clac\Clac\bin\Debug\Clac.exe.config
+C:\Users\dada_\source\repos\Clac\Clac\bin\Debug\Clac.exe
+C:\Users\dada_\source\repos\Clac\Clac\bin\Debug\Clac.pdb
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.csproj.AssemblyReference.cache
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.csproj.SuggestedBindingRedirects.cache
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.AboutBox1.resources
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.Form1.resources
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.Properties.Resources.resources
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.csproj.GenerateResource.cache
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.csproj.CoreCompileInputs.cache
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.exe
+C:\Users\dada_\source\repos\Clac\Clac\obj\Debug\Clac.pdb
